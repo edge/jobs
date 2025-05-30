@@ -1,8 +1,10 @@
-# Work at Edge
+# Welcome to Edge
 
 Welcome to the Edge Network careers repository. This is where you'll find open roles and everything you need to know about working at Edge.
 
-## About Edge
+<br>
+
+## 🌍 About Edge
 
 Edge is building the Supercloud. This decentralised platform replaces the traditional cloud with a global mesh of compute, storage, and delivery. It’s faster, greener, more secure, and radically more efficient.
 
@@ -10,7 +12,9 @@ Our infrastructure spans thousands of nodes across the world. It powers everythi
 
 We’re not just improving infrastructure. We’re changing how it’s built and who it serves.
 
-## Our Philosophy
+<br>
+
+## 🧘 Our Philosophy
 
 > _“Work should fit around our lives, not the other way round.”_
 
@@ -22,7 +26,9 @@ We have core hours for team overlap. Outside of that, your time is yours.
 
 We don't use Teams. We don't use Slack. We use tools that actually support modern work. Think Discord, GitHub, and clean internal documentation.
 
-## What We Look For
+<br>
+
+## 🔍 What We Look For
 
 We’re looking for people who:
 - Solve complex problems with clarity and creativity
@@ -33,14 +39,18 @@ We’re looking for people who:
 
 Whether you're deploying infrastructure, architecting distributed systems, or building experimental hardware, you’ll be working on the foundations of the Supercloud.
 
-## Open Roles
+<br>
+
+## 📂 Open Roles
 
 All roles are fully remote and async-first. Job descriptions and technical tasks are available in the [`jobs/`](./jobs/) folder.
 
 - [Distributed Systems Engineer](./jobs/distributed-systems-engineer.md)
 - [Robotics Engineer](./jobs/robotics-engineer.md) (coming soon)
 
-## The Hiring Process
+<br>
+
+## 🛠️ The Hiring Process
 
 We’ve simplified our approach. No cover letters. No CVs. No long-winded interviews. Here's how to apply:
 
@@ -60,7 +70,9 @@ We’ve simplified our approach. No cover letters. No CVs. No long-winded interv
 
 That’s it. No noise. Just signal.
 
-## Perks
+<br>
+
+## 🎁 Perks
 
 - Remote-first, async-friendly work culture
 - Flexible hours around core availability
@@ -69,6 +81,8 @@ That’s it. No noise. Just signal.
 - Colleagues who care and challenge you to improve
 - A chance to shape the future of decentralised infrastructure
 
----
+<br>
+
+If this sounds like your kinda place, we'd love to hear from you.
 
 **Don’t just use the internet. Rebuild it with Edge.**
