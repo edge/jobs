@@ -13,6 +13,6 @@ If you're passionate about embedded systems, autonomy, real-world deployment, an
 
 More details coming soon.
 
----
+<br>
 
 **Engineer machines that think and move. Join Edge.**
