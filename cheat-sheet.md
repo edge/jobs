@@ -4,6 +4,8 @@ This is your unofficial guide to building a standout submission.
 
 It’s not about perfection. It’s about signal. We want to see how you think, how you work, and how you care about your craft.
 
+<br>
+
 ## 🚀 What We Love
 
 These aren’t requirements. But they help us say yes faster.
@@ -45,6 +47,8 @@ Got stuck? Curious about something? **Ask.**
 - Message us during your project
 - We don't dock points for asking — we respect curiosity
 
+<br>
+
 ## 👀 What We Notice
 
 ### 🔍 Attention to Detail
@@ -63,6 +67,8 @@ Got stuck? Curious about something? **Ask.**
 - If you used AI, great — just make sure you can explain it
 - We will ask follow-up questions. Own your work
 
+<br>
+
 ## 🙅‍♂️ What Doesn’t Help
 
 - Single commit dump with no message
@@ -70,10 +76,10 @@ Got stuck? Curious about something? **Ask.**
 - Submissions that clearly used AI without human oversight
 - Projects without README or context
 
+<br>
+
 ## 🧵 Summary
 
 We’re not looking for flawless. We’re looking for **clear thinking**, **care**, and **a working slice of something interesting**.
-
----
 
 **Help us understand what you did and why. That’s what matters.**
