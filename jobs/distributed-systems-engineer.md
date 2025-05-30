@@ -10,7 +10,7 @@ We are seeking a Distributed Systems Engineer to build and scale the underlying 
 
 If you're an engineer who dissects tough technical problems, iterates with precision, and can turn a raw concept into production-ready code, you'll fit right in.
 
----
+<br>
 
 ## 🔧 Key Responsibilities
 
@@ -23,7 +23,7 @@ If you're an engineer who dissects tough technical problems, iterates with preci
 - Explore and evaluate trends in Web3, blockchain, and AI/LLM technologies  
 - Maintain clean, documented codebases using Git and GitHub  
 
----
+<br>
 
 ## 🧠 Required Skills and Experience
 
@@ -35,7 +35,7 @@ If you're an engineer who dissects tough technical problems, iterates with preci
 - Excellent problem-solving and debugging skills  
 - Strong written communication and remote collaboration skills  
 
----
+<br>
 
 ## 🧩 Bonus Skills
 
@@ -45,7 +45,7 @@ If you're an engineer who dissects tough technical problems, iterates with preci
 - Linux system administration experience  
 - Database architecture and management knowledge  
 
----
+<br>
 
 ## 🧪 Technical Task
 
@@ -98,7 +98,7 @@ We’ll review submissions based on:
 We also expect that you follow the guidelines outlined in our  
 📖 [Development Practices](https://github.com/edge/jobs/blob/master/development-practices.md)
 
----
+<br>
 
 ## 📬 Submission Instructions
 
@@ -115,6 +115,6 @@ Take the time you need. This is your chance to show what you can do.
    - Subject: `Distributed Systems Engineer`
    - A link to your GitHub repo
 
----
+<br>
 
 **Power the future of compute from the inside out. Join Edge.**
