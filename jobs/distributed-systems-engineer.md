@@ -14,7 +14,7 @@ If you're an engineer who dissects tough technical problems, iterates with preci
 
 ## 🔧 Key Responsibilities
 
-- Develop and maintain RESTful APIs and backend services using Node.js  
+- Develop and maintain RESTful APIs and backend services using Node.js (JavaScript) 
 - Design and implement robust backend systems for blockchain, distributed computing, and fault-tolerant networking  
 - Prototype experimental features like decentralised video streaming or AI-powered tools  
 - Collaborate with cross-functional teams to define and deliver new features  
@@ -27,7 +27,7 @@ If you're an engineer who dissects tough technical problems, iterates with preci
 
 ## 🧠 Required Skills and Experience
 
-- Deep expertise in Node.js and building RESTful APIs  
+- Deep expertise in JavaScript & Node.js and building RESTful APIs  
 - Ability to deconstruct complex problems into clear, actionable steps  
 - Experience experimenting with modern AI and LLM technology  
 - Strong focus on iterative prototyping and experimentation  
